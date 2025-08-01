@@ -136,4 +136,4 @@ void GameBoardView::draw() {
 ## 플레이 영상
 > ※ 아래 이미지를 클릭하시면 YouTube에서 VocaRush의 시연 영상을 확인하실 수 있습니다.
 
-![시작화면/(images/StartView.png) 
+![시작화면](images/StartView.png) 
