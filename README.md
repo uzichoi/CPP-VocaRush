@@ -1,5 +1,6 @@
-# CPP-VocaRush
-Console-based 2-player word battle game built wit
+# VocaRush: 콘솔 기반 단어 배틀 게임  
+> 🎮 Console-based 2-player word battle game built with C++ and MVC architecture
+
 
 # VocaRush: 콘솔 기반 단어 배틀 게임
 
